@@ -3,3 +3,5 @@
 From on-prem to GitHub
 
 Another update from localhost
+
+Added index.html file locally
